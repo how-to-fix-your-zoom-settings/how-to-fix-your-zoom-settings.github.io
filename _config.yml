@@ -2,6 +2,7 @@ title: How to improve Zoom’s default settings
 description: >- # this means to ignore newlines until "baseurl:"
   A few tips on how to improve some of the default Zoom settings such as joining with video enabled, adding pronouns to your display name, disabling the waiting room and making sure people don’t have to enter the password when they click your invitation link
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
-
+plugins:
+  - jekyll-include-cache
 # Build settings
 markdown: kramdown
